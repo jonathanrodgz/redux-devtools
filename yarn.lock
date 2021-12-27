@@ -5171,7 +5171,7 @@ __metadata:
     babel-loader: ^8.2.3
     base16: ^1.0.0
     codemirror: ^5.65.0
-    color: ^3.2.1
+    color: ^4.1.0
     csstype: ^3.0.10
     eslint: ^8.5.0
     eslint-config-prettier: ^8.3.0
@@ -11250,7 +11250,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"color-convert@npm:^1.9.0, color-convert@npm:^1.9.3":
+"color-convert@npm:^1.9.0":
   version: 1.9.3
   resolution: "color-convert@npm:1.9.3"
   dependencies:
@@ -11282,7 +11282,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"color-string@npm:^1.6.0":
+"color-string@npm:^1.9.0":
   version: 1.9.0
   resolution: "color-string@npm:1.9.0"
   dependencies:
@@ -11301,13 +11301,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"color@npm:^3.2.1":
-  version: 3.2.1
-  resolution: "color@npm:3.2.1"
+"color@npm:^4.1.0":
+  version: 4.1.0
+  resolution: "color@npm:4.1.0"
   dependencies:
-    color-convert: ^1.9.3
-    color-string: ^1.6.0
-  checksum: f81220e8b774d35865c2561be921f5652117638dcda7ca4029262046e37fc2444ac7bbfdd110cf1fd9c074a4ee5eda8f85944ffbdda26186b602dd9bb05f6400
+    color-convert: ^2.0.1
+    color-string: ^1.9.0
+  checksum: 9f2ca574f8453983ab549282962ccdb094d8b5d29de2d162f2bca81c0c82429d1dfac49d8dabf2c0c0369bb7ceae16ceabc9f523f9eaedcba38a464e72091458
   languageName: node
   linkType: hard
 
@@ -23697,7 +23697,7 @@ __metadata:
     "@typescript-eslint/eslint-plugin": ^5.8.0
     "@typescript-eslint/parser": ^5.8.0
     base16: ^1.0.0
-    color: ^3.2.1
+    color: ^4.1.0
     csstype: ^3.0.10
     eslint: ^8.5.0
     eslint-config-prettier: ^8.3.0
