@@ -43,13 +43,13 @@
     "@babel/core": "^7.16.7",
     "@babel/preset-env": "^7.16.7",
     "@babel/preset-typescript": "^7.16.7",
-    "@types/d3": "^3.5.46",
+    "@types/d3": "^7.1.0",
     "@types/node": "^16.11.17",
     "@types/ramda": "^0.27.62",
     "@typescript-eslint/eslint-plugin": "^5.8.1",
     "@typescript-eslint/parser": "^5.8.1",
     "babel-loader": "^8.2.3",
-    "d3": "^3.5.17",
+    "d3": "^7.3.0",
     "eslint": "^8.6.0",
     "eslint-config-prettier": "^8.3.0",
     "rimraf": "^3.0.2",
@@ -59,7 +59,7 @@
     "webpack-cli": "^4.9.1"
   },
   "peerDependencies": {
-    "@types/d3": "^3.5.46",
-    "d3": "^3.5.17"
+    "@types/d3": "^7.1.0",
+    "d3": "^7.3.0"
   }
 }
